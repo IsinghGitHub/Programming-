@@ -15,7 +15,7 @@ Let's see what is the meaning of class, public, static, void, main, String[], Sy
 Let's see the simple code of the main method.
 
 ```java
-**static** **public** **void** main(String args[])
+static public void main(String args[])
 ```
 
 **The subscript notation in Java array can be used after type, before the variable or after the variable.**
@@ -34,7 +34,7 @@ public static void main(String args[])
 Let's see the simple code of using var-args in the main method. We will learn about var-args later in Java New Features chapter.
 
 ```java
-**public** **static** **void** main(String... args)
+public static void main(String... args)
 ```
 
 ```java
